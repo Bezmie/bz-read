@@ -43,3 +43,8 @@
 - bz-common
 - WooCommerce
 - The Icon Block
+- Jetpack
+
+# Ресурсы
+
+http://clinicadev.beget.tech/ тестовый сайт
